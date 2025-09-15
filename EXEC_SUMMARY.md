@@ -1,4 +1,4 @@
-# Executive Summary — TTD v3.6.4
+# Executive Summary — TTD v3.6.5
 
 Purpose: Plain-language overview of the public skeleton. Apache-2.0. Minimal, verifiable, reproducible.
 
@@ -32,3 +32,6 @@ Purpose: Plain-language overview of the public skeleton. Apache-2.0. Minimal, ve
 
 ## Verification
 - See `MANIFEST.md` for SHA-256s and signature instructions.
+
+
+Helix AI Innovations Inc., 17246102 CANADA INC.
