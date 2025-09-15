@@ -1,6 +1,6 @@
 {
-  "protocol": "TTD",
-  "version": "3.6.4",
+  "protocol": "Helix TTD",
+  "version": "3.6.5",
   "release_id": "ttd-public-2025-09-19",
   "created_at": "2025-09-19T00:00:00-04:00",
   "timezone": "America/Toronto",
@@ -34,5 +34,7 @@
   },
   "license": "Apache-2.0",
   "privacy": "public",
+  "corp": "Helix AI Innovations Inc., 17246102 CANADA INC."
   "notes": "Public skeleton; no private governance or ops runbooks."
 }
+
