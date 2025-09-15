@@ -20,7 +20,6 @@ Purpose: Plain-language overview of the public skeleton. Apache-2.0. Minimal, ve
 - MANIFEST.sig
 - README.md
 - RISK_NOTES.md
-- SCOPE.md
 - STATE.md
 - index.html
 - Static site: `index.html`, `assets/jsonl-table.js`
@@ -44,4 +43,5 @@ Purpose: Plain-language overview of the public skeleton. Apache-2.0. Minimal, ve
 
 
 Helix AI Innovations Inc., 17246102 CANADA INC.
+
 
