@@ -1,4 +1,4 @@
-# MANIFEST — TTD v3.6.4 Public Skeleton
+# MANIFEST — TTD v3.6.5 Public Skeleton
 
 Canonical file list, frozen at T-2.  
 All artifacts are immutable post-freeze; any change requires re-hash + re-sign.
@@ -47,3 +47,5 @@ gpg --verify MANIFEST.sig MANIFEST.md
 
 # Hash individual files as needed
 Get-FileHash .\index.html -Algorithm SHA256
+
+Helix AI Innovations Inc., 17246102 CANADA INC.
