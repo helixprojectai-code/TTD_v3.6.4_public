@@ -1,12 +1,8 @@
-
----
-
-# 📄 `PUBLIC_TOKEN_HEADER.yaml` (replace whole file)
 ```yaml
-# PUBLIC_TOKEN_HEADER.yaml — TTD v3.6.4
+# PUBLIC_TOKEN_HEADER.yaml — TTD v3.6.5
 
-protocol: "TTD"
-version: "3.6.4"
+protocol: "Helix TTD"
+version: "3.6.5"
 release_id: "ttd-public-2025-09-19"
 created_at: "2025-09-19T00:00:00-04:00"
 timezone: "America/Toronto"
@@ -56,5 +52,7 @@ signatures:
   signature: "<detached_or_embed_later>"
 
 license: "Apache-2.0"
+corp: "Helix AI Innovations Inc., 17246102 CANADA INC."
 privacy: "public"
 notes: "Public skeleton; no private governance or ops runbooks."
+
