@@ -1,11 +1,11 @@
-# TTD v3.6.4 — Public Skeleton
+# Helix TTD v3.6.5 — Public Skeleton
 
 This repository contains the **public, reproducible skeleton** of TTD v3.6.4.  
 It is designed for verifiability, not promotion. All artifacts are released under **Apache License 2.0**.
 
 ---
 
-# Latest frozen release:** [TTD v3.6.4 — Public Skeleton](https://github.com/helixprojectai-code/TTD_v3.6.4_public/releases/tag/ttd-v3.6.4-public)
+# Latest frozen release:** [Helix TTD v3.6.5 — Public Skeleton]
 
 # Verify:** Import `pubkey.asc` → `gpg --verify MANIFEST.sig MANIFEST.md` → compare SHA-256 in `MANIFEST.md`.
 
@@ -56,3 +56,5 @@ See `SCOPE.md` for details.
    sha256sum -c MANIFEST.md
 
 
+
+Helix AI Innovations Inc., 17246102 CANADA INC.
