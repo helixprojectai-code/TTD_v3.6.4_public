@@ -1,4 +1,4 @@
-# Family Registry (Public) — TTD v3.6.4
+# Family Registry (Public) — TTD v3.6.5
 
 Purpose: Public, PII-safe model family list.
 
@@ -17,3 +17,6 @@ Notes:
 
 ## Verification
 - Compare IDs referenced in `PUBLIC_TOKEN_HEADER.*` (if any).
+
+
+Helix AI Innovations Inc., 17246102 CANADA INC.
