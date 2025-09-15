@@ -1,4 +1,4 @@
-# Milestones Timeline — TTD v3.6.4
+# Milestones Timeline — TTD v3.6.5
 
 Purpose: Dated, concise checkpoints. All dates America/Toronto.
 
@@ -18,3 +18,6 @@ Purpose: Dated, concise checkpoints. All dates America/Toronto.
 
 ## Verification
 - Cross-check tags/commits per date; compare with `STATE.md` ticks.
+
+
+Helix AI Innovations Inc., 17246102 CANADA INC.
