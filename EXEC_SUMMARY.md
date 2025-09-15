@@ -8,12 +8,21 @@ Purpose: Plain-language overview of the public skeleton. Apache-2.0. Minimal, ve
 - No npm-built bundles; one custom JS (`assets/jsonl-table.js`). Tight CSP.
 
 ## What Ships (Public)
+- AGENT_POLICY.md
 - EXEC_SUMMARY.md
 - TECHNICAL_OVERVIEW.md
 - FAMILY_REGISTRY_PUBLIC.md
 - MILESTONES_TIMELINE.md
 - PUBLIC_TOKEN_HEADER.yaml / PUBLIC_TOKEN_HEADER.json
+- LICENSE
 - LICENSE_NOTICE.md
+- MANIFEST.md.sig
+- MANIFEST.sig
+- README.md
+- RISK_NOTES.md
+- SCOPE.md
+- STATE.md
+- index.html
 - Static site: `index.html`, `assets/jsonl-table.js`
 
 ## What Does Not Ship (Held Back)
@@ -35,3 +44,4 @@ Purpose: Plain-language overview of the public skeleton. Apache-2.0. Minimal, ve
 
 
 Helix AI Innovations Inc., 17246102 CANADA INC.
+
