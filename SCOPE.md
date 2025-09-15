@@ -1,4 +1,4 @@
-# Scope — TTD v3.6.4 Public Skeleton
+# Scope — TTD v3.6.5 Public Skeleton
 
 Ships (Apache-2.0)
 - EXEC_SUMMARY.txt — plain-language overview
@@ -19,3 +19,4 @@ Held back (internal / timing-sensitive)
 Notes
 - China variant ships separately; not part of this pack.
 - Any post-freeze edits require re-hash + re-sign.
+
