@@ -1,4 +1,4 @@
-# Risks & Mitigations — TTD v3.6.4
+# Risks & Mitigations — Helix TTD v3.6.5
 
 1) Supply-chain phishing / dependency hijack  
 **Risk**: Unexpected remote code via transitive deps or CDN swaps.  
@@ -24,3 +24,7 @@
 **Mitigations**:
 - "Honest mode" narrative in EXEC_SUMMARY; abstention > speculation
 - Clear scoping of what ships vs. held back (see SCOPE.md)
+
+
+
+Helix AI Innovations Inc., 17246102 CANADA INC.
